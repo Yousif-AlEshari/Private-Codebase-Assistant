@@ -195,7 +195,6 @@ This project is released under the **MIT License** — feel free to use, modify,
 
 ---
 
-### 👤 Author
+### Author
 
 **Yousif Al Eshari** — Al-Hussein Technical University
- Developer & Researcher |  Building secure private RAG assistants
